@@ -1,0 +1,44 @@
+item {
+  id: 1
+  name: 'r_arm'
+}
+
+item {
+  id: 2
+  name: 'r_palm'
+}
+
+item {
+  id: 3
+  name: 'r_fingertips'
+}
+
+item {
+  id: 4
+  name: 'r_fingertip'
+}
+
+item {
+  id: 5
+  name: 'r_thumb'
+}
+
+item {
+  id: 6
+  name: 'r_index'
+}
+
+item {
+  id: 7
+  name: 'r_mid'
+}
+
+item {
+  id: 8
+  name: 'r_ring'
+}
+
+item {
+  id: 9
+  name: 'r_pinky'
+}
