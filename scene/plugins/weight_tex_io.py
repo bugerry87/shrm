@@ -1,7 +1,6 @@
 import bpy
-from mathutils import Color
-import random
 from bpy.props import *
+from mathutils import Color
 import bmesh
 
 
@@ -19,7 +18,7 @@ bl_info = {
     "category": "Rigging"}
 
 
-############ NEW FUNCS ###############
+############ FUNCS ###############
 def copyWeight2VertexCol(context, method):
     ao = context.active_object
     try:

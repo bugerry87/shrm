@@ -1,2 +1,4 @@
 *.pyc
 *.blend+
+*/data/*
+*/dataset/*
